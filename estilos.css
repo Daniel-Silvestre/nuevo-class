@@ -17,12 +17,12 @@ button{
     border-radius: 5px;
     cursor: pointer;
 }
-#rojo{
-    background-color: red;
+#anaranjado{
+    background-color: rgb(192, 60, 7);
 }
-#azul{
-    background-color: blue;
+#negro{
+    background-color: rgb(0, 0, 0);
 }
-#verde{
-    background-color: green;
+#gris{
+    background-color: rgb(128, 128, 128)    ;
 }
